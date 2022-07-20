@@ -1,0 +1,10 @@
+uuid: d3fc2be5-bb50-46b4-a6fd-43519bb5deb6
+langcode: en
+status: true
+dependencies: {  }
+id: example_nextjs_preview
+label: 'Example NextJS Preview'
+url: 'https://example.site/api/preview'
+secret: yXsQhfjMEm9Z8ksH
+preview_type: nextjs
+content_type: {  }
